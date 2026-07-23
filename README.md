@@ -1,2 +1,0 @@
-# Training
-training for github
