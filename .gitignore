@@ -1,0 +1,31 @@
+# ESP-IDF / build artifacts
+**/build/
+**/sdkconfig
+**/sdkconfig.old
+**/sdkconfig.defaults
+**/dependencies.lock
+**/managed_components/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Binary artifacts
+*.bin
+*.elf
+*.hex
+*.map
+*.a
+
+# Local secrets
+*.pem
+*.key
+*.crt
+*.der
