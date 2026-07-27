@@ -1,0 +1,19 @@
+# ESP-IDF build artifacts
+build/
+managed_components/
+
+# ESP-IDF generated files
+sdkconfig.old
+
+# VS Code
+.vscode/
+
+# Binaries
+*.bin
+*.elf
+*.map
+*.o
+*.obj
+
+# Logs
+*.log
