@@ -1,0 +1,6 @@
+dependencies:
+  idf:
+    version: ">=5.1.0"
+
+  esp-idf-lib/scd4x: "^1.0.8"
+  esp-idf-lib/i2cdev: "*"
