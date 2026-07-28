@@ -29,3 +29,5 @@ Thumbs.db
 *.key
 *.crt
 *.der
+# Ignore copied ESP-IDF component directories
+*/components/
