@@ -9,7 +9,7 @@ extern "C"
 }
 
 #define SDA_PIN GPIO_NUM_21
-#define SCL_PIN GPIO_NUM_22
+#define SCL_PIN GPIO_NUM_224
 
 i2c_dev_t scd;
 
